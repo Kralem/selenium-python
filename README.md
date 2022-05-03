@@ -8,6 +8,7 @@ Python is available here: https://www.python.org/downloads/
 You can then install Selenium with the following command: pip install selenium.
 
 After you have installed both you will need a chromedriver, which you can get here: https://chromedriver.chromium.org/downloads
+
 Make sure to download the driver for the version of Chrome which you **currently have installed**.
 
 ## Running the program
