@@ -5,7 +5,7 @@ This project was made using Python and the Selenium package.
 You will need to install Python and Selenium.
 Python is available here: https://www.python.org/downloads/
 
-You can then install Selenium with the following command: pip install selenium.
+You can then install Selenium with the following command: pip install selenium
 
 After you have installed both you will need a chromedriver, which you can get here: https://chromedriver.chromium.org/downloads
 
